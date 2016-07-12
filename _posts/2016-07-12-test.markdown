@@ -4,3 +4,5 @@ title: test
 layout: post
 ---
 test
+
+<!--more-->
